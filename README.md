@@ -50,5 +50,3 @@ Note that we have used Spring Data JPA starter to talk to MySQL database.
 2. Run the following command to build and run the application: `mvn spring-boot:run`.
 3. The application will be accessible at `http://localhost:8080/`.
 
-## Conclusion
-This project is a simple yet comprehensive demonstration of how to develop Spring MVC web applications using Spring Boot. It provides a good starting
