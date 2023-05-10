@@ -1,4 +1,5 @@
-README.md for Mini Todo Management Project using Spring Boot + Spring MVC + Spring Security + JSP + Hibernate + MySQL
+# README.md 
+for Todo Management Project using Spring Boot + Spring MVC + Spring Security + JSP + Hibernate + MySQL
 
 ## Overview
 This project is a mini todo management web application that demonstrates the use of Spring Boot, Spring MVC, Spring Security, JSP, Hibernate, and MySQL. 
